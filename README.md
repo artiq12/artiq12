@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on ToDo
+- 🌱 I’m currently learning Go, Rust, Python
+- 👯 I’m looking to collaborate on Games
+- 🤔 I’m looking for help with finding new projects
+- 💬 Ask me about C, C++, Embedded
 
 <!--
 **artiq12/artiq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
