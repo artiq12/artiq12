@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ToDo
 - 🌱 I’m currently learning Go, Rust, Python
 - 👯 I’m looking to collaborate on Games
 - 🤔 I’m looking for help with finding new projects
